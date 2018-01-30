@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - pydot
   - pip:
     - nbgitpuller
     - sphinx-gallery
@@ -12,3 +13,4 @@ dependencies:
     - tensorflow
     - keras
     - python-pptx
+    - git+https://github.com/dagwieers/unoconv
