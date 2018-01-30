@@ -1,3 +1,4 @@
 libreoffice
 openjdk-9-jre-headless
 graphviz
+ghostscript
