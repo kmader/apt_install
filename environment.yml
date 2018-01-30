@@ -15,3 +15,4 @@ dependencies:
     - python-pptx
     - git+https://github.com/dagwieers/unoconv
     - PyDrive
+    - fileupload
